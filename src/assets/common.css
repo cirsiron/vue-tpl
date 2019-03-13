@@ -1,11 +1,3 @@
 html {
-    font-size: 13.33333vw;
-}
-body {
     font-size: 12px;
-}
-@media (min-width: 560px) {
-    html {
-      font-size: 54px;
-    }
 }
